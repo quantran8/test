@@ -20,5 +20,4 @@ for(let i= 0 ;i<b.length ;i++){
     }
    
 }
-console.log('1');
-console.log('1');
+console.log('1')
