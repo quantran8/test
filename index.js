@@ -16,7 +16,8 @@ let b = [3,4,1,2,0,5,8];
 for(let i= 0 ;i<b.length ;i++){
     console.log('a chạy')
     for(let j=i+1 ;j<b.length ;j++){
-        console.log('b chay')
+        console.log('b chay') ;
     }
    
 }
+console.log('1')
